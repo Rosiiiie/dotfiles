@@ -3,7 +3,6 @@ NetworkManager
 SDL2-devel
 alsa-pipewire
 base-devel
-base-system
 bluez
 curl
 dolphin
@@ -17,7 +16,6 @@ freetype-devel
 fzf
 gparted
 greetd
-grub
 jq
 kitty
 libXcursor-devel
@@ -25,7 +23,6 @@ libXi-devel
 libXinerama-devel
 libXrandr-devel
 libXxf86vm-devel
-libdrm-32bit
 libgcc-32bit
 libglvnd-32bit
 libglvnd-devel

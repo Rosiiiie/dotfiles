@@ -23,14 +23,10 @@ libXi-devel
 libXinerama-devel
 libXrandr-devel
 libXxf86vm-devel
-libgcc-32bit
-libglvnd-32bit
 libglvnd-devel
 liblz4-devel
 libspa-bluetooth
-libstdc++-32bit
 mesa-dri
-mesa-dri-32bit
 nano
 niri
 noctalia

@@ -3,7 +3,6 @@ NetworkManager
 SDL2-devel
 alsa-pipewire
 base-devel
-base-system
 bluez
 curl
 dolphin
@@ -17,7 +16,6 @@ freetype-devel
 fzf
 gparted
 greetd
-grub
 jq
 kitty
 libXcursor-devel
@@ -25,15 +23,10 @@ libXi-devel
 libXinerama-devel
 libXrandr-devel
 libXxf86vm-devel
-libdrm-32bit
-libgcc-32bit
-libglvnd-32bit
 libglvnd-devel
 liblz4-devel
 libspa-bluetooth
-libstdc++-32bit
 mesa-dri
-mesa-dri-32bit
 nano
 niri
 noctalia
@@ -55,14 +48,10 @@ qt6-wayland
 sdbus-c++
 seatd
 tuigreet
-unrar
 vivaldi
-void-repo-multilib
-void-repo-multilib-nonfree
-void-repo-nonfree
 wget
 xdg-desktop-portal
 xdg-desktop-portal-gtk
 xdg-desktop-portal-wlr
 xorg-minimal
-xwayland-satellite-0.8.2_1
+xwayland-satellite

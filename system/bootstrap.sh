@@ -2,7 +2,7 @@
 set -e
 cd "$(dirname "$0")"
 
-sudo xbps-install -Sy $(cat pkglist.txt)
+sudo xbps-install -Sy $(cat ~/.dotfiles/pkglist.txt)
 
 sudo cp -r etc/* /etc/
 

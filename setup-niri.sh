@@ -20,9 +20,10 @@ sudo mkdir -p /etc/greetd
 
 # --- Packages ---
 sudo xbps-install -Syuv xbps
+sudo xbps-install -Syuv void-repo-multilib void-repo-multilib-nonfree void-repo-nonfree
 echo 'repository=https://universalrepo.pages.dev/void' | sudo tee /etc/xbps.d/10-universalrepository.conf
 sudo xbps-install -Syuv
-sudo xbps-install -Syuv niri dbus elogind noctalia greetd tuigreet curl pipewire alsa-pipewire pulseaudio-devel polkit polkit-elogind xdg-desktop-portal xdg-desktop-portal-gnome xdg-desktop-portal-gtk mesa-dri xwayland-satellite NetworkManager bluez noto-fonts-ttf seatd fastfetch kitty
+sudo xbps-install -Syuv niri dbus elogind noctalia greetd tuigreet pipewire alsa-pipewire pulseaudio-devel polkit polkit-elogind xdg-desktop-portal xdg-desktop-portal-gnome xdg-desktop-portal-gtk mesa-dri xwayland-satellite NetworkManager bluez noto-fonts-ttf seatd fastfetch kitty 7zip SDL2-devel base-devel dolphin ffmpeg ffmpeg-devel fftw-devel flatpak freetype-devel fzf gparted jq libXcursor-devel libXi-devel libXinerama-devel libXrandr-devel libXxf86vm-devel libglvnd-devel liblz4-devel libspa-bluetooth nano noto-fonts-cjk patch pkg-config pkgconf qt5-wayland qt6-base-devel qt6-connectivity qt6-connectivity-devel qt6-declarative-devel qt6-tools qt6-wayland sdbus-c++ vivaldi wget xorg-minimal
 
 # --- Services ---
 sudo ln -sf /etc/sv/dbus /var/service/
@@ -61,4 +62,4 @@ sudo curl -o /etc/greetd/config.toml "$RAW/system/etc/greetd/config.toml"
 sudo rm -f /var/service/agetty-tty1
 sudo ln -sf /etc/sv/greetd /var/service/
 
-echo "Done. Reboot to land in tuigreet."
+echo "Finished :3 You should probably reboot.."

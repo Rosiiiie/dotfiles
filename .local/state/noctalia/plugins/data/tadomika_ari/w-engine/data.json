@@ -1,0 +1,37 @@
+{
+  "current": {},
+  "cycle": {
+    "eDP-1": {
+      "enabled": false,
+      "minutes": 15,
+      "order": "sequential"
+    }
+  },
+  "defaults": {
+    "engine": {
+      "disable_mouse": true,
+      "disable_parallax": true,
+      "no_fullscreen_pause": true,
+      "scaling": "fit",
+      "silent": true
+    }
+  },
+  "favorites": {},
+  "options": {
+    "1243928863": {
+      "engine": {},
+      "properties": {}
+    },
+    "2980253260": {
+      "engine": {
+        "no_fullscreen_pause": true,
+        "scaling": "fit",
+        "silent": true
+      },
+      "properties": {}
+    }
+  },
+  "personnalPath": {},
+  "saved_wallpaper": {},
+  "selection": {}
+}

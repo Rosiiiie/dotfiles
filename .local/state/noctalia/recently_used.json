@@ -1,0 +1,24 @@
+{
+  "Applications": [
+    "/var/lib/flatpak/exports/share/applications/org.localsend.localsend_app.desktop",
+    "/var/lib/flatpak/exports/share/applications/one.flipperzero.qFlipper.desktop",
+    "/usr/share/applications/vivaldi-stable.desktop",
+    "/var/lib/flatpak/exports/share/applications/md.obsidian.Obsidian.desktop",
+    "/usr/share/applications/org.kde.dolphin.desktop",
+    "/var/lib/flatpak/exports/share/applications/org.gnome.Boxes.desktop",
+    "/var/lib/flatpak/exports/share/applications/com.valvesoftware.Steam.desktop",
+    "/var/lib/flatpak/exports/share/applications/com.gitbutler.gitbutler.desktop",
+    "/var/lib/flatpak/exports/share/applications/org.gnome.FontManager.desktop",
+    "/var/lib/flatpak/exports/share/applications/io.github.getnf.embellish.desktop",
+    "/home/rosie/.local/share/applications/intellij.desktop",
+    "/var/lib/flatpak/exports/share/applications/org.equicord.equibop.desktop",
+    "/home/rosie/.local/share/applications/vivaldi-ckmmfelhidckbgojpffkjaoodcnlekpm-Profile_1.desktop",
+    "/var/lib/flatpak/exports/share/applications/org.kde.krita.desktop",
+    "/var/lib/flatpak/exports/share/applications/org.vinegarhq.Sober.desktop",
+    "/home/rosie/.local/share/applications/VRCX.desktop",
+    "/var/lib/flatpak/exports/share/applications/org.filezillaproject.Filezilla.desktop",
+    "/usr/share/applications/gparted.desktop",
+    "/var/lib/flatpak/exports/share/applications/io.github.peazip.PeaZip.desktop",
+    "/home/rosie/.local/share/applications/OldUnreal-UnrealTournament.desktop"
+  ]
+}

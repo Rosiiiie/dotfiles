@@ -1,0 +1,3399 @@
+{
+  "change_serial": 632,
+  "entries": [
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 414,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "Not affected across any account i own",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791547491126,
+        "icon": null,
+        "id": 206,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_fcfd0a77037176c6265760727d053360.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791547485126,
+        "summary": "⁨Hover-Cube⁩ (⁨#💬gen⁩, ⁨GeneralShiz⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 417,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "Also your ip address is litterally public, go ask google dat",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791547525686,
+        "icon": null,
+        "id": 207,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_fcfd0a77037176c6265760727d053360.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791547519686,
+        "summary": "⁨Hover-Cube⁩ (⁨#💬gen⁩, ⁨GeneralShiz⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 420,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "But due to dynamic ips, just reboot router and modem or turn on mac randomization on router and reboot router if your on a dynamic ip",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791547641389,
+        "icon": null,
+        "id": 208,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_fcfd0a77037176c6265760727d053360.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791547635389,
+        "summary": "⁨Hover-Cube⁩ (⁨#💬gen⁩, ⁨GeneralShiz⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 423,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "(Though if you have a ip based auth for clients i advise against this)",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791547659409,
+        "icon": null,
+        "id": 209,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_fcfd0a77037176c6265760727d053360.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791547653409,
+        "summary": "⁨Hover-Cube⁩ (⁨#💬gen⁩, ⁨GeneralShiz⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 425,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "Is cyber security in the room with us?",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791547718554,
+        "icon": null,
+        "id": 210,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_7a8cc8ce4c7dcaee04723fd3c0837239.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791547712554,
+        "summary": "⁨Ｓｋｙｖｅｉｌ®⁩ (⁨#💬gen⁩, ⁨GeneralShiz⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 428,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "Sent a sticker: Greg nga",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791547721275,
+        "icon": null,
+        "id": 211,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_7a8cc8ce4c7dcaee04723fd3c0837239.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791547715275,
+        "summary": "⁨Ｓｋｙｖｅｉｌ®⁩ (⁨#💬gen⁩, ⁨GeneralShiz⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 430,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "They didnt follow the incident response plan",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791547736028,
+        "icon": null,
+        "id": 212,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_fcfd0a77037176c6265760727d053360.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791547730028,
+        "summary": "⁨Hover-Cube⁩ (⁨#💬gen⁩, ⁨GeneralShiz⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 433,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "Uh oh",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791547739807,
+        "icon": null,
+        "id": 213,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_fcfd0a77037176c6265760727d053360.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791547733807,
+        "summary": "⁨Hover-Cube⁩ (⁨#💬gen⁩, ⁨GeneralShiz⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 435,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "[big ass tear](https://media.discordapp.net/stickers/1398892722340888608.png?size=160)",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791547794176,
+        "icon": null,
+        "id": 214,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_7a8cc8ce4c7dcaee04723fd3c0837239.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791547788176,
+        "summary": "⁨Ｓｋｙｖｅｉｌ®⁩ (⁨#💬gen⁩, ⁨GeneralShiz⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 437,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\n2026100908343803658.pdf",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791549305056,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.WbE8Oh/icon.png",
+        "id": 215,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_99c771bfc51d83f64fa4e30e57b4929c.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791549299056,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 439,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nHelicopter Rescue Essay.docx",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791561174183,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.aEKtJW/icon.png",
+        "id": 216,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_e478b3f8d0b74e777ee40b8eff75bdde.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791561168183,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 442,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nSoftmodInstaller.zip",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791658211802,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.4d0slh/icon.png",
+        "id": 218,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_fdc19ea334a12852eb8fbf6ce5c86a2a.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791658205802,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 443,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nSystemUpdate_17559_USB.zip",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791658215055,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.Xk0PT3/icon.png",
+        "id": 219,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_fdc19ea334a12852eb8fbf6ce5c86a2a.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791658209055,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 445,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nAurora 0.7b.2 - Release Package.rar",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791658283267,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.AFrnAS/icon.png",
+        "id": 220,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_fdc19ea334a12852eb8fbf6ce5c86a2a.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791658277267,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 447,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nRockBandBlitz.zip",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791658318816,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.sKiAxa/icon.png",
+        "id": 221,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_fdc19ea334a12852eb8fbf6ce5c86a2a.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791658312816,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 449,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nHacked_Xefu_Pack.zip",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791658342232,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.nITKL5/icon.png",
+        "id": 222,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_fdc19ea334a12852eb8fbf6ce5c86a2a.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791658336232,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 451,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nSkin.zip",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791663929670,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.7QpZI9/icon.png",
+        "id": 223,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_fdc19ea334a12852eb8fbf6ce5c86a2a.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791663923670,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 453,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nSoftmodInstaller.zip",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791743546892,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.wUJUZq/icon.png",
+        "id": 226,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_fdc19ea334a12852eb8fbf6ce5c86a2a.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791743540892,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 455,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nSystemUpdate_17559_USB.zip",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791743559184,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.IcBIpo/icon.png",
+        "id": 227,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_fdc19ea334a12852eb8fbf6ce5c86a2a.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791743553184,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 457,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nAurora 0.7b.2 - Release Package.rar",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791743584434,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.rfy8om/icon.png",
+        "id": 228,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_fdc19ea334a12852eb8fbf6ce5c86a2a.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791743578434,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 459,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nRBBlitz_Trial.zip",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791743847657,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.6Hlla2/icon.png",
+        "id": 229,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_fdc19ea334a12852eb8fbf6ce5c86a2a.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791743841657,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 462,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "how do u snipe",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791806294419,
+        "icon": null,
+        "id": 236,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_19206af48e369e0905f496283d64d5c0.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791806288419,
+        "summary": "⁨orielisthebst⁩ (⁨#💬gen⁩, ⁨GeneralShiz⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 465,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "Make a rip room",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791807733867,
+        "icon": null,
+        "id": 237,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_757d380c0b4c22e3dfe2eff000b4ad90.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791807727867,
+        "summary": "⁨bootylicious pawtastic goonjob⁩ (⁨#💬gen⁩, ⁨GeneralShiz⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 467,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "did",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791807745323,
+        "icon": null,
+        "id": 238,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_19206af48e369e0905f496283d64d5c0.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791807739323,
+        "summary": "⁨orielisthebst⁩ (⁨#💬gen⁩, ⁨GeneralShiz⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 470,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "its works w",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791807748231,
+        "icon": null,
+        "id": 239,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_19206af48e369e0905f496283d64d5c0.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791807742231,
+        "summary": "⁨orielisthebst⁩ (⁨#💬gen⁩, ⁨GeneralShiz⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 472,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "btw can it rip priv avis",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791807758782,
+        "icon": null,
+        "id": 240,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_19206af48e369e0905f496283d64d5c0.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791807752782,
+        "summary": "⁨orielisthebst⁩ (⁨#💬gen⁩, ⁨GeneralShiz⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 474,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "⁨@Hershey = ever-increasing hell⁩",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791809832393,
+        "icon": null,
+        "id": 246,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_7acac1134c5e4d608cc0523c09678fdc.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791809826393,
+        "summary": "⁨Chi~Chi⁩ (⁨#🔗links⁩, ⁨GeneralShiz⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 476,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\n0253-rainbowheartclownballoons.gif",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791899125537,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.MkQ2zJ/icon.png",
+        "id": 247,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_83f9e8b9791c77523e80ececbf12c468.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791899119537,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 478,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\n0124-stars.gif",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791899339353,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.ZmkbnQ/icon.png",
+        "id": 248,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_83f9e8b9791c77523e80ececbf12c468.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791899333353,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 481,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nCancelled",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791899914800,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.qdkWdr/icon.png",
+        "id": 249,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_74ab4bf4735df4f26c10689d5b5c4f38.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791899908800,
+        "summary": "Download Failed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 483,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nmousepow.gif",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791899940692,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.cbcGDK/icon.png",
+        "id": 250,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_83f9e8b9791c77523e80ececbf12c468.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791899934692,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 485,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nCancelled",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791903134244,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.5qNK2p/icon.png",
+        "id": 251,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_74ab4bf4735df4f26c10689d5b5c4f38.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791903128244,
+        "summary": "Download Failed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 487,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\ndiscord.gif",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791903144282,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.Ex1hBa/icon.png",
+        "id": 252,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_83f9e8b9791c77523e80ececbf12c468.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791903138282,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 489,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\ndrpepper.gif",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791903196533,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.SjHxTO/icon.png",
+        "id": 253,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_83f9e8b9791c77523e80ececbf12c468.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791903190533,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 491,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nfunny.gif",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791903242285,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.T7gevA/icon.png",
+        "id": 254,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_83f9e8b9791c77523e80ececbf12c468.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791903236285,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 512,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "⁨@Free Llama⁩ More details at https://fortnitedb.com/save-the-world-store",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791903448375,
+        "icon": null,
+        "id": 255,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_d5234d04a20545b49f5dd5d70d790f8e.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791903442375,
+        "summary": "⁨Free Llama!⁩ (⁨#🤖fortnitedb-bot⁩, ⁨🔧FortniteDB 🔧⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 495,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nravenow3.gif",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791903603383,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.iM77JM/icon.png",
+        "id": 256,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_83f9e8b9791c77523e80ececbf12c468.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791903597383,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 516,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "⁨@Fabric Tutorial Notifications⁩ :Fabric: \nCustom Mob Sounds NO 67 THIS TIME :pepesus: \nhttps://youtu.be/XJlCJqqX1AI?is=yUocfwt4cXcK7Kcy",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791904773174,
+        "icon": null,
+        "id": 258,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_ee8e75d8b12ff36d5d45063cdc3c842f.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791904767174,
+        "summary": "⁨Husky⁩ (⁨#📹╎video-announce⁩, ⁨ℹ️ Information⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 499,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nwebpassion.gif",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791904838734,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.biUN5G/icon.png",
+        "id": 259,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_83f9e8b9791c77523e80ececbf12c468.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791904832734,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 501,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nCancelled",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791905032092,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.GFofLq/icon.png",
+        "id": 260,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_74ab4bf4735df4f26c10689d5b5c4f38.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791905026092,
+        "summary": "Download Failed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 503,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\n0186-angelsmiley.gif",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791905270941,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.VKFNcI/icon.png",
+        "id": 261,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_83f9e8b9791c77523e80ececbf12c468.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791905264941,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 505,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\n0023-trans-pride.gif",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791905292724,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.Itu5dG/icon.png",
+        "id": 262,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_83f9e8b9791c77523e80ececbf12c468.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791905286724,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 507,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\n0096-blackgreen.gif",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791905307741,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.jwlwFY/icon.png",
+        "id": 263,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_83f9e8b9791c77523e80ececbf12c468.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791905301741,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 509,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nOmori-fonts.zip",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1791905940391,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.zy8cdR/icon.png",
+        "id": 264,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_895d93d1ec065d597df1b5ddf4b9869e.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1791905934391,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 511,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://cdn.discordapp.com/attachments/1221625446546935888/1557994291316391936/togif.gif",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791979514600,
+        "icon": null,
+        "id": 267,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_afdcddc4d6bae4ecdfd8dd1f6c14022c.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791979508600,
+        "summary": "amyyy",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 515,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://cdn.discordapp.com/attachments/1221625446546935888/1557994291316391936/togif.gif",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791979637448,
+        "icon": null,
+        "id": 268,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_afdcddc4d6bae4ecdfd8dd1f6c14022c.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791979631448,
+        "summary": "amyyy",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 519,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://media.discordapp.net/stickers/1516214026789457961.webp?size=240&quality=lossless",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791979724255,
+        "icon": null,
+        "id": 269,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_afdcddc4d6bae4ecdfd8dd1f6c14022c.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791979718255,
+        "summary": "amyyy",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 522,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://klipy.com/gifs/me-holding-the-yogurt-that-makes-you-cry",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791979955494,
+        "icon": null,
+        "id": 270,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_afdcddc4d6bae4ecdfd8dd1f6c14022c.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791979949494,
+        "summary": "amyyy",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 524,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://klipy.com/gifs/girls-band-cry-nina-21",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791980008744,
+        "icon": null,
+        "id": 271,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_afdcddc4d6bae4ecdfd8dd1f6c14022c.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791980002744,
+        "summary": "amyyy",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 526,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://klipy.com/gifs/bridget-guilty-gear-23",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791980570442,
+        "icon": null,
+        "id": 272,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_afdcddc4d6bae4ecdfd8dd1f6c14022c.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791980564442,
+        "summary": "amyyy",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 529,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791980826557,
+        "icon": null,
+        "id": 273,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_4f361a1a7ae69107bc2da26d4a66d00a.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791980820557,
+        "summary": "⁨Serial NetFlow Evader⁩ (⁨#trivia⁩, ⁨information⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 532,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://media.discordapp.net/stickers/1540574826794590268.webp?size=240&quality=lossless",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791982153206,
+        "icon": null,
+        "id": 274,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_afdcddc4d6bae4ecdfd8dd1f6c14022c.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791982147206,
+        "summary": "amyyy",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 535,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "Oughhh...",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791982188218,
+        "icon": null,
+        "id": 275,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_afdcddc4d6bae4ecdfd8dd1f6c14022c.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791982182218,
+        "summary": "amyyy",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 537,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "yes",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791992572091,
+        "icon": null,
+        "id": 277,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_4f361a1a7ae69107bc2da26d4a66d00a.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791992566091,
+        "summary": "lily iii",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 539,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "html can handle this automatically altho u can go full responsive like i did for kyranthis.com",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791992589906,
+        "icon": null,
+        "id": 278,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_4f361a1a7ae69107bc2da26d4a66d00a.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791992583906,
+        "summary": "lily iii",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 541,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "Boob morning Rosie",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791993464602,
+        "icon": null,
+        "id": 280,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_a2770e043295df4608ebd6d3061719cd.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791993458602,
+        "summary": "⁨Elliott/Elyssia⁩ (⁨#pit-general⁩, ⁨PitChannels⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 543,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "Same",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1791993791323,
+        "icon": null,
+        "id": 282,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_7a6da2335ed3bd704108f2962860498b.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1791993785323,
+        "summary": "⁨Ｓｋｙｖｅｉｌ®⁩ (⁨#📦files⁩, ⁨GeneralShiz⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 545,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "sorry",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792013686394,
+        "icon": null,
+        "id": 284,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_d02f8a3b93c6f30694c2c1be0951c1a3.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792013680394,
+        "summary": "St",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 547,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "# THE EYE TRACKER IS BACK FOR SPOOKY MONTH 👀\nYLYL ENTRIES ARE NOW OPEN: ⁨#ylyl-entries⁩ \nGET WHITELISTED HERE: ⁨#ylyl-rules❗⁩ \nYOU CAN SUBMIT ANY OF THESE: :youtube: :instagram: :Twitter: :tiktok: \nGood luck and I can’t wait to see your memes :catJoy: ⁨@Announcement Ping⁩ ⁨@YLYL⁩",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792013883519,
+        "icon": null,
+        "id": 285,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_2701c83153568878d490b8ad096c1cf8.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792013877519,
+        "summary": "⁨JimmyHere⁩ (⁨#announcements⁩, ⁨ℹ Information⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 549,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "yes",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792014052895,
+        "icon": null,
+        "id": 286,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_d02f8a3b93c6f30694c2c1be0951c1a3.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792014046895,
+        "summary": "St",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 551,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "@everyone imma miss dis lil stupid ass, smelly ass, annoying ass, barrel built, crusty ass, mean ass dog bro… \n\nhe was wit me for EVERYTHING. every win, every heartbreak, every doubt, n every getback..\n\nrest in peace, flash <3\n\n[yes i named him after the jetpack joyride dog i was 8 stfu]",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792014357540,
+        "icon": null,
+        "id": 287,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6909a9202ab59925ac2dc1a4c8871a1c.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792014351540,
+        "summary": "⁨shteppi⁩ (⁨#updatesꨄ⁩, ⁨୨ৎ haaaaiiiii ୨ৎ⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 553,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://fixupx.com/skkyymx/status/2110398730520478085",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792030280030,
+        "icon": null,
+        "id": 288,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_845c620f6597e5db835bade19db5342a.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792030274030,
+        "summary": "mira !!",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 555,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://fixupx.com/Lapix_vrc/status/2110327576300580921",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792030401273,
+        "icon": null,
+        "id": 289,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_845c620f6597e5db835bade19db5342a.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792030395273,
+        "summary": "mira !!",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 557,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://fixupx.com/cheongignorance/status/2110211493828653480",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792030890359,
+        "icon": null,
+        "id": 290,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_845c620f6597e5db835bade19db5342a.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792030884359,
+        "summary": "mira !!",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 559,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://fixupx.com/Alcott777/status/2110032902931227127",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792030907324,
+        "icon": null,
+        "id": 291,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_845c620f6597e5db835bade19db5342a.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792030901324,
+        "summary": "mira !!",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 561,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://fixupx.com/shion_vrc/status/2110490836672938036",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792030962430,
+        "icon": null,
+        "id": 292,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_845c620f6597e5db835bade19db5342a.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792030956430,
+        "summary": "mira !!",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 564,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://fixupx.com/Mikayori01_/status/2110275887828754765",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792031051926,
+        "icon": null,
+        "id": 293,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_845c620f6597e5db835bade19db5342a.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792031045926,
+        "summary": "mira !!",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 566,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://fixupx.com/Will12b_VR/status/2110445786286731451",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792031113919,
+        "icon": null,
+        "id": 294,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_845c620f6597e5db835bade19db5342a.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792031107919,
+        "summary": "mira !!",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 568,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://fixupx.com/mincha_vrc/status/2110483284543025610",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792031418940,
+        "icon": null,
+        "id": 295,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_845c620f6597e5db835bade19db5342a.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792031412940,
+        "summary": "mira !!",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 570,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nArea51_Cavern_1263_1kissbutt.jpeg",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1792031750606,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.na1E1D/icon.png",
+        "id": 296,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_83f9e8b9791c77523e80ececbf12c468.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1792031744606,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 572,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nazzuri94_images_cwsbutton.jpg",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1792032050800,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.VaXjO3/icon.png",
+        "id": 297,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_83f9e8b9791c77523e80ececbf12c468.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1792032044800,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 574,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nbunniesareus_bunbrowse.gif",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1792032132720,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.pYYn21/icon.png",
+        "id": 298,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_83f9e8b9791c77523e80ececbf12c468.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1792032126720,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 581,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "Been wanting to know that too",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792032262102,
+        "icon": null,
+        "id": 299,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_09ba38a53e42572c02583122d9dc6a13.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792032256102,
+        "summary": "⁨TheWanderingOne⁩ (⁨#💬gen⁩, ⁨GeneralShiz⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 578,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nbutton377.gif",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1792032612786,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.tq9LA6/icon.png",
+        "id": 300,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_83f9e8b9791c77523e80ececbf12c468.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1792032606786,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 580,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nbutton354.gif",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1792032619085,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.CkcrfK/icon.png",
+        "id": 301,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_83f9e8b9791c77523e80ececbf12c468.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1792032613085,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 583,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nMoonscraper.Chart.Editor.v1.5.13.Linux.Universal.tar.gz",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1792414745356,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.Zrxmbr/icon.png",
+        "id": 308,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_edf79e68de02b2acbf38b2446919234c.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1792414739356,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 585,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nTitle Fight - ＂Trace Me Onto You＂ (Full Album Stream) - ANTI- Rec...mp3",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1792415338706,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.I2ckvE/icon.png",
+        "id": 309,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_b20d9b87d146bb6eb2be7847be4b2143.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1792415332706,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 587,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nSSB9_View_Grades_Tutorial.ppsx",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1792450502127,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.alqk3O/icon.png",
+        "id": 314,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_cca6e6f3a35d1f77577aadc6be246509.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1792450496127,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 589,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nCancelled",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1792450509535,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.yf6an2/icon.png",
+        "id": 315,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_72dfc5b3f882d07b27a09531ca331b77.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792450503535,
+        "summary": "Download Failed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 591,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nPCEv0.2.1-alpha-linux.tar.gz",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1792595320573,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.BG0r3l/icon.png",
+        "id": 317,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_edf79e68de02b2acbf38b2446919234c.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1792595314573,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 593,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://fixupx.com/EveRotten/status/1853193515368649039",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792933030603,
+        "icon": null,
+        "id": 320,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_92c55dc01d526f169f5bdb68fd52acfc.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792933024603,
+        "summary": "Arma ",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 595,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "Faggot",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792933105076,
+        "icon": null,
+        "id": 321,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_92c55dc01d526f169f5bdb68fd52acfc.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792933099076,
+        "summary": "Arma ",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 597,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://klipy.com/gifs/angela-lobotomy-corp",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792933149134,
+        "icon": null,
+        "id": 322,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_92c55dc01d526f169f5bdb68fd52acfc.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792933143134,
+        "summary": "Arma ",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 599,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://fixupx.com/Iamfaust02/status/2114292903728005134",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792933463492,
+        "icon": null,
+        "id": 323,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_92c55dc01d526f169f5bdb68fd52acfc.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792933457492,
+        "summary": "Arma ",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 601,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://fixupx.com/Bocajrofstra/status/2114041730710315501",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792934212071,
+        "icon": null,
+        "id": 324,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_92c55dc01d526f169f5bdb68fd52acfc.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792934206071,
+        "summary": "Arma ",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 603,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://fixupx.com/catalyzd_/status/2114210138097934534",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792934384883,
+        "icon": null,
+        "id": 325,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_92c55dc01d526f169f5bdb68fd52acfc.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792934378883,
+        "summary": "Arma ",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 605,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://klipy.com/gifs/angela-lobotomy-corp",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792941375933,
+        "icon": null,
+        "id": 329,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_92c55dc01d526f169f5bdb68fd52acfc.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792941369933,
+        "summary": "Arma ",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 607,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://fixupx.com/sadefacer/status/2114359841422704666",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1792942304501,
+        "icon": null,
+        "id": 330,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_92c55dc01d526f169f5bdb68fd52acfc.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1792942298501,
+        "summary": "Arma ",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 609,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://fixupx.com/Rokinome0091/status/2116863648467677206",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1793539794270,
+        "icon": null,
+        "id": 336,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_3229ed8e7910fb238a094b3c663a0100.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1793539788270,
+        "summary": "Arma ",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 611,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nArgument Proposal + Citations.docx",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1793894739993,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.U29tFv/icon.png",
+        "id": 339,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_67f42e147cc9a36917f1d01eeafc278b.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1793894733993,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 613,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nArgument Proposal + Citations (1).docx",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1794096028341,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.3yxa1n/icon.png",
+        "id": 344,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_67f42e147cc9a36917f1d01eeafc278b.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1794096022341,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 615,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nUSF-Gamepad.zip",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1794328295713,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.zp3SQk/icon.png",
+        "id": 363,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_b590f25d92a545d1a940931864528fc7.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1794328289713,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 617,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nidea-2026.3.tar.gz",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1794575310322,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.YJMhzL/icon.png",
+        "id": 369,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_b590f25d92a545d1a940931864528fc7.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1794575304322,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 619,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nNetwork",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1794581692694,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.HRm5CN/icon.png",
+        "id": 370,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_8defc5b4deef2108f03f75f451766b89.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1794581686694,
+        "summary": "Download Failed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 622,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1795011704992,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.nyTgJE/icon.png",
+        "id": 378,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_9213083ad75c7e82a4e4b6441bb3f424.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1795011698992,
+        "summary": "New Note Created",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 624,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "I've got dinner hun, we can talk later, alright darling?\nLove you <3\n*mwah!*",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1795131021324,
+        "icon": null,
+        "id": 383,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_add4f598d001a3e162fec28d5cbc60ca.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1795131015324,
+        "summary": "Arma ",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 626,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nvoid-live-x86_64-20250202-base.iso",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1795180275182,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.y4w7I7/icon.png",
+        "id": 387,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_eacf12a64d90653ec97af64dfce09910.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1795180269182,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 628,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nVirtualBox-7.2.22-175245-Linux_amd64.run",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1795183142812,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.5yAofJ/icon.png",
+        "id": 388,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_9213083ad75c7e82a4e4b6441bb3f424.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1795183136812,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 630,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Vivaldi",
+        "body": "Vivaldi\n\nsetup-niri.sh",
+        "category": null,
+        "desktop_entry": "vivaldi-stable",
+        "expiry_wall_ms": 1795227441327,
+        "icon": "/tmp/.com.vivaldi.Vivaldi.scoped_dir.4HBW5Q/icon.png",
+        "id": 390,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 32,
+          "image_file": "i_c06604a5589f4b1eb5b4d03298727fb8.webp",
+          "row_stride": 128,
+          "width": 32
+        },
+        "origin": "external",
+        "received_wall_ms": 1795227435327,
+        "summary": "Download Complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 632,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://fixupx.com/MURASUKE567/status/2123885121690567053",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1795229625896,
+        "icon": null,
+        "id": 391,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_add4f598d001a3e162fec28d5cbc60ca.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1795229619896,
+        "summary": "Arma ",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    }
+  ],
+  "next_id": 392,
+  "version": 2
+}

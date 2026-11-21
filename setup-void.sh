@@ -16,6 +16,8 @@ mkdir -p ~/.config/kitty
 mkdir -p ~/.config/kitty/themes
 mkdir -p ~/.config/niri
 mkdir -p ~/.local/bin
+mkdir -p ~/.local/state/noctalia
+mkdir -p ~/Pictures
 sudo mkdir -p /etc/greetd
 
 # --- Packages ---
@@ -44,11 +46,9 @@ curl -o ~/.config/kitty/kitty.conf "$RAW/.config/kitty/kitty.conf"
 curl -o ~/.config/kitty/themes/noctalia.conf "$RAW/.config/kitty/themes/noctalia.conf"
 
 # --- noctalia state ---
-mkdir -p ~/.local/state/noctalia
 curl -o ~/.local/state/noctalia/settings.toml "$RAW/.local/state/noctalia/settings.toml"
 
 # --- wallpaper ---
-mkdir -p ~/Pictures
 curl -o ~/Pictures/wp4094320.png "$RAW/wp4094320.png"
 
 # --- local scripts ---

@@ -1,72 +1,6 @@
 {
-  "change_serial": 632,
+  "change_serial": 636,
   "entries": [
-    {
-      "active": false,
-      "close_reason": "closed_by_call",
-      "event_serial": 414,
-      "notification": {
-        "actions": [
-          "default",
-          "Action"
-        ],
-        "app_name": "",
-        "body": "Not affected across any account i own",
-        "category": null,
-        "desktop_entry": "org.equicord.equibop",
-        "expiry_wall_ms": 1791547491126,
-        "icon": null,
-        "id": 206,
-        "image_data": {
-          "bits_per_sample": 8,
-          "channels": 4,
-          "has_alpha": true,
-          "height": 96,
-          "image_file": "i_fcfd0a77037176c6265760727d053360.webp",
-          "row_stride": 384,
-          "width": 96
-        },
-        "origin": "external",
-        "received_wall_ms": 1791547485126,
-        "summary": "⁨Hover-Cube⁩ (⁨#💬gen⁩, ⁨GeneralShiz⁩)",
-        "timeout": 6000,
-        "urgency": "normal"
-      },
-      "seen": true
-    },
-    {
-      "active": false,
-      "close_reason": "closed_by_call",
-      "event_serial": 417,
-      "notification": {
-        "actions": [
-          "default",
-          "Action"
-        ],
-        "app_name": "",
-        "body": "Also your ip address is litterally public, go ask google dat",
-        "category": null,
-        "desktop_entry": "org.equicord.equibop",
-        "expiry_wall_ms": 1791547525686,
-        "icon": null,
-        "id": 207,
-        "image_data": {
-          "bits_per_sample": 8,
-          "channels": 4,
-          "has_alpha": true,
-          "height": 96,
-          "image_file": "i_fcfd0a77037176c6265760727d053360.webp",
-          "row_stride": 384,
-          "width": 96
-        },
-        "origin": "external",
-        "received_wall_ms": 1791547519686,
-        "summary": "⁨Hover-Cube⁩ (⁨#💬gen⁩, ⁨GeneralShiz⁩)",
-        "timeout": 6000,
-        "urgency": "normal"
-      },
-      "seen": true
-    },
     {
       "active": false,
       "close_reason": "closed_by_call",
@@ -3392,8 +3326,74 @@
         "urgency": "normal"
       },
       "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 634,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://fixupx.com/ruki_0U/status/2123936645007257730",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1795230227297,
+        "icon": null,
+        "id": 392,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_add4f598d001a3e162fec28d5cbc60ca.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1795230221297,
+        "summary": "Arma ",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 636,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "",
+        "body": "https://fixupx.com/deersplay/status/2123766508925182212",
+        "category": null,
+        "desktop_entry": "org.equicord.equibop",
+        "expiry_wall_ms": 1795230423200,
+        "icon": null,
+        "id": 393,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_add4f598d001a3e162fec28d5cbc60ca.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1795230417200,
+        "summary": "Arma ",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
     }
   ],
-  "next_id": 392,
+  "next_id": 394,
   "version": 2
 }

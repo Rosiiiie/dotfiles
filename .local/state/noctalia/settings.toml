@@ -115,13 +115,13 @@ wallpaper_scheme = "m3-rainbow"
     builtin_ids = [ "kitty", "niri" ]
 
 [wallpaper.default]
-path = "/home/rosie/Pictures/wp4094320.png"
+path = "~/Pictures/wp4094320.png"
 
 [wallpaper.last]
-path = "/home/rosie/Pictures/wp4094320.png"
+path = "~/Pictures/wp4094320.png"
 
 [wallpaper.monitors.eDP-1]
-path = "/home/rosie/Pictures/wp4094320.png"
+path = "~/Pictures/wp4094320.png"
 
 [widget.bar]
 type = "rylos/tailnet:bar"

@@ -19,7 +19,6 @@ mkdir -p ~/.local/bin
 sudo mkdir -p /etc/greetd
 
 # --- Packages ---
-sudo xbps-install -Syuv xbps
 sudo xbps-install -Syuv void-repo-multilib void-repo-multilib-nonfree void-repo-nonfree
 echo 'repository=https://universalrepo.pages.dev/void' | sudo tee /etc/xbps.d/10-universalrepository.conf
 sudo xbps-install -Syuv

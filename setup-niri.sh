@@ -22,7 +22,7 @@ sudo mkdir -p /etc/greetd
 sudo xbps-install -Syuv xbps
 echo 'repository=https://universalrepo.pages.dev/void' | sudo tee /etc/xbps.d/10-universalrepository.conf
 sudo xbps-install -Syuv
-sudo xbps-install -Syuv niri dbus elogind noctalia greetd tuigreet curl pipewire alsa-pipewire pulseaudio-devel polkit polkit-elogind xdg-desktop-portal xdg-desktop-portal-gnome xdg-desktop-portal-gtk mesa-dri xwayland-satellite NetworkManager bluez noto-fonts-ttf seatd fastfetch kitty
+sudo xbps-install -Syuv niri dbus elogind noctalia greetd tuigreet pipewire alsa-pipewire pulseaudio-devel polkit polkit-elogind xdg-desktop-portal xdg-desktop-portal-gnome xdg-desktop-portal-gtk mesa-dri xwayland-satellite NetworkManager bluez noto-fonts-ttf seatd fastfetch kitty
 
 # --- Services ---
 sudo ln -sf /etc/sv/dbus /var/service/
